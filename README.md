@@ -4,7 +4,7 @@
 
 
 <h2>📃 Certifications </h2>
-- <a href="https://www.coursera.org/account/accomplishments/professional-cert/BHBHVBZMKTH9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">Google IT Support</a> 
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/BHBHVBZMKTH9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">Google IT Support Professional</a> 
 
 <h2> 🤳 Connect with me:</h2>
 
